@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](![](https://github.com/AnDel55/order-summary-component-component/blob/main/screenshots/desktop.jpeg))
-![](![](https://github.com/AnDel55/order-summary-component-component/blob/main/screenshots/mobile.jpeg))
+![](https://github.com/AnDel55/order-summary-component-component/blob/main/screenshots/desktop.jpeg)
+![](https://github.com/AnDel55/order-summary-component-component/blob/main/screenshots/mobile.jpeg)
 
 ### Links
 
